@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/_localhost-2024_03_04_18_53_37-dump.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/ServerModle/src/customerManagement/CustomerManagement.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/ServerModle/src/fefualtpacage/Management.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/ServerModle/src/orderManagement/MyOrderManagement.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/ServerModle/src/orderManagement/OrderManagement.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/ServerModle/src/roomManageMent/RoomManagement.java" dialect="GenericSQL" />
+  </component>
+</project>
